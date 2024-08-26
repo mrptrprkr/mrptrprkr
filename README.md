@@ -5,19 +5,12 @@
 
 
 🤠 I'm Peter, a front-end developer from the London.
-
 🏁 Goal: to be a full-stack developer && Expert front-end develeoper.
-
 🖥️ I’m currently working on business websites.
-
 🐍 I’m currently learning Python
-
 💬 Ask me about any question.
-
 📫 How to reach me: ptr.parker@outlook.com or https://www.sswebbuilder.com/
-
 ⚡ Fun fact: I both love Windows and Apple products equally, and I also love upskilling myself.
-
 📚 I’m currently using, practicing and learning with:
 
 
@@ -31,3 +24,9 @@
 ![image](https://github.com/user-attachments/assets/436e7db9-9fba-496d-a218-8789b552f802)
 ![image](https://github.com/user-attachments/assets/7a01051e-530f-4875-8541-dc912013aab7)
 ![image](https://github.com/user-attachments/assets/169a8f69-5a00-45e3-b943-5e1b81da4df8)
+![images](https://github.com/user-attachments/assets/71fec596-9a9d-4d15-bef7-2fdb9e010db1)
+![174881](https://github.com/user-attachments/assets/29dcfc8f-9f2b-4b9a-a65e-961eae7dffd0)
+![image](https://github.com/user-attachments/assets/2cddbc37-43a4-4967-a4a1-73673b11e30e)
+
+
+
