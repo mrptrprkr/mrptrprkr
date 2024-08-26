@@ -4,9 +4,9 @@
 
 
 
-🤠 I'm Peter, a front-end developer from the London.
+🤠 I'm Peter, a front-end developer from London, UK.
 
-🏁 Goal: to be a full-stack developer && Expert front-end develeoper.
+🏁 Goal: to be a full-stack developer & Expert front-end develeoper.
 
 🖥️ I’m currently working on business websites.
 
