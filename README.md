@@ -6,11 +6,11 @@
 
 🤠 I'm Peter, a full stack web developer and cloud engineer from London, UK.
 
-🏁 Goal: to be a full-stack developer & Expert front-end develeoper.
+🏁 Goal: Currently, I'm the founder of Ace Web Curator Limited, but my goal is to be employed in a permanent role.
 
 🖥️ I’m currently working on business websites and am completing a university degree (BSc) in Computing and IT (Software).
 
-🐍 I’m currently learning Python and Java
+🐍 I’m currently learning Java and deeper insight in Python.
 
 💬 Ask me about any question.
 
@@ -18,7 +18,7 @@
 
 ⚡ Fun fact: I both love Windows and Apple products equally, and I also love upskilling myself.
 
-📚 In addition to my web techs, I also use AWS, Python, Git, Powershell, and recently started to learn Java.
+📚 In addition to my web techs, I also use AWS, Python, Git, Powershell.
 
 
 
